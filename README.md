@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+Hello, my name is Ryan and I am currently learning Python in hopes to becoming a Software Engineer without having a CS Degree. I graduated with a Bachelors in Music degree and decided that Software Engineering is the path I am more interested in as it would mean I get to spend more time with family while I am able to make a difference in someone's day because I can "solve" a problem.
